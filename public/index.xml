@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>LogischerMix</title>
-    <link>http://localhost:62078/</link>
+    <link>http://localhost:63212/</link>
     <description>Recent content on LogischerMix</description>
     <image>
       <title>LogischerMix</title>
-      <url>http://localhost:62078/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:62078/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:63212/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:63212/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.138.0</generator>
     <language>en-US</language>
     <lastBuildDate>Sun, 31 Jul 2022 20:48:13 -0400</lastBuildDate>
-    <atom:link href="http://localhost:62078/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:63212/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://localhost:62078/visited_places/</link>
+      <link>http://localhost:63212/visited_places/</link>
       <pubDate>Sun, 31 Jul 2022 20:48:13 -0400</pubDate>
-      <guid>http://localhost:62078/visited_places/</guid>
+      <guid>http://localhost:63212/visited_places/</guid>
       <description>&lt;iframe src=&#34;https://www.google.com/maps/d/u/0/embed?mid=1g9FSghwPSnpOvGU-cVUIMmHCAgsCmO0&amp;amp;ehbc=2E312F&#34; style=&#34;position:fixed; top:0; left:0; bottom:0; right:0; width:100%; height:100%; border:none; margin:0; padding:0; overflow:hidden; z-index:999999;&#34;&gt;
     Your browser doesn&#39;t support iframes!
 &lt;/iframe&gt;</description>
     </item>
     <item>
       <title>Donate</title>
-      <link>http://localhost:62078/donate/</link>
+      <link>http://localhost:63212/donate/</link>
       <pubDate>Wed, 13 Jul 2022 10:01:45 -0400</pubDate>
-      <guid>http://localhost:62078/donate/</guid>
+      <guid>http://localhost:63212/donate/</guid>
       <description>&lt;p&gt;If you appreciate my content, please consider donating to charities or nonprofits
 to make the world a better place.&lt;/p&gt;
 &lt;p&gt;Here are some of my recommendations:&lt;/p&gt;
@@ -49,9 +49,9 @@ improved the efficiency and productivity of societies and changed people&amp;rsq
     </item>
     <item>
       <title>About</title>
-      <link>http://localhost:62078/about/</link>
+      <link>http://localhost:63212/about/</link>
       <pubDate>Fri, 17 Jun 2022 16:58:47 -0400</pubDate>
-      <guid>http://localhost:62078/about/</guid>
+      <guid>http://localhost:63212/about/</guid>
       <description>&lt;h1 id=&#34;the-name&#34;&gt;The Name&lt;/h1&gt;
 &lt;p&gt;The name &lt;strong&gt;LogischerMix&lt;/strong&gt; comes from the book &lt;a href=&#34;https://www.amazon.ca/Logicomix-search-truth-Apostolos-Doxiadis/dp/1596914521&#34;&gt;&lt;em&gt;Logicomix: An Epic Search for Truth&lt;/em&gt;&lt;/a&gt;,
 a fantastic book recommended by one of my professors at the business school.&lt;/p&gt;

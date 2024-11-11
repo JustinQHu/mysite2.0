@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>LogischerMix</title>
-    <link>http://localhost:62078/zh-cn/</link>
+    <link>http://localhost:63212/zh-cn/</link>
     <description>Recent content on LogischerMix</description>
     <image>
       <title>LogischerMix</title>
-      <url>http://localhost:62078/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:62078/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:63212/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:63212/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.138.0</generator>
     <language>zh-CN</language>
     <lastBuildDate>Fri, 15 Jul 2022 09:06:36 -0400</lastBuildDate>
-    <atom:link href="http://localhost:62078/zh-cn/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:63212/zh-cn/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>关于</title>
-      <link>http://localhost:62078/zh-cn/about/</link>
+      <link>http://localhost:63212/zh-cn/about/</link>
       <pubDate>Fri, 15 Jul 2022 09:06:36 -0400</pubDate>
-      <guid>http://localhost:62078/zh-cn/about/</guid>
+      <guid>http://localhost:63212/zh-cn/about/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;本站的所有文章都默认为英文，中文版本由Google Translate 翻译。&lt;br&gt;
 由于时间限制，并非所有文章都有中文版本。&lt;/p&gt;
@@ -36,9 +36,9 @@
     </item>
     <item>
       <title>Donate</title>
-      <link>http://localhost:62078/zh-cn/donate/</link>
+      <link>http://localhost:63212/zh-cn/donate/</link>
       <pubDate>Wed, 13 Jul 2022 10:01:45 -0400</pubDate>
-      <guid>http://localhost:62078/zh-cn/donate/</guid>
+      <guid>http://localhost:63212/zh-cn/donate/</guid>
       <description>&lt;p&gt;If you appreciate my content, please consider donating to charities or nonprofits
 to make the world a better place.&lt;/p&gt;
 &lt;p&gt;Here are some of my recommendations:&lt;/p&gt;
