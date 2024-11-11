@@ -1,8 +1,10 @@
-# Mblog
+# MySite2.0
 
 ## Purpose
 
 Repo for the source files(except the static files after build) of personal blog.
+
+Migrating person site to Hugo PaperMod theme
 
 1. to keep all blogs post
     static site,  all posts will be in MD file
